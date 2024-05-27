@@ -1,0 +1,390 @@
+body, html {
+    height: 920px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rectangle {
+    width: 1400px;
+    height: 985px;
+    position: 50%;
+    background-color:  hsl(226, 43%, 10%);
+}
+.rectangle2 {
+    height: 350px;
+    width: 250px;
+    position: relative;
+    top: 75px; left: 160px;
+    background-color: hsl(246, 80%, 60%);
+    border-radius: 15px;
+}
+.rectangle3 {
+    height: 200px;
+    width: 250px;
+    position: relative;
+    top: 590px; left: 160px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+.jeremy{
+    width: 80px;
+    position: relative;
+    top: -270px; left: 190px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+}
+h1{
+    position: relative;
+    top: -120px; left: 100px;
+    color: #fff;
+    display: inline-block;
+    font-size: 40px;
+    font-family:  Arial, sans-serif;
+}
+.rep{
+    position: relative;
+    top: -210px; left: -50px;
+    display: inline-block;
+    color: rgb(156, 158, 160);
+    font-family: Arial, sans-serif;
+}
+.daily{
+    position: relative;
+    top: 10px; left: -125px;
+    display: inline-block;
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+}
+.daily:hover {
+   cursor: pointer;
+   color: #fff;
+}
+.week{
+    position: relative;
+    top: 50px; left: -165px;
+    display: inline-block;
+    color: hsl(0, 0%, 100%);
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+}
+.mon{
+    position: relative;
+    top: 90px; left: -220px;
+    display: inline-block;
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+}
+.mon:hover{
+    cursor: pointer;
+    color: #fff;
+}
+.work{
+    width: 250px;
+    height: 235px;
+    background-color:  hsl(15, 100%, 70%);
+    position: relative;
+    top: -415px; left: 440px;
+    border-radius: 15px;
+}
+.imwo{
+    position: relative;
+    top: 0px; left: 155px;
+}
+.rec4{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    top: -30px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px;
+}
+.rec4:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellips{
+    position: relative;
+    top: 0px; left: 160px;
+    cursor: pointer;
+}
+.h32{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -40px;
+    display: inline;
+}
+.last{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 25px;
+}
+.play{
+    width: 250px;
+    height: 235px;
+    background-color:  hsl(195, 74%, 62%);
+    position: relative;
+    top: -650px; left: 720px;
+    border-radius: 15px;
+}
+.impl{
+    position: relative;
+    top: 0px;left: 155px;
+}
+.rec5{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    top: -30px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px; 
+}
+.rec5:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name2{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellipsPlay{
+    position: relative;
+    top: 0px; left: 160px;
+    cursor: pointer;
+}
+.h10{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -40px;
+    display: inline;
+}
+.lastPlay{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 25px;
+}
+.study{
+    width: 250px;
+    height: 235px;
+    background-color:  hsl(348, 100%, 68%);
+    position: relative;
+    top: -885px; left: 1000px;
+    border-radius: 15px;
+}
+.simstu{
+    position: relative;
+    top: 0px; left: 155px;
+}
+.rec6{
+    height: 200px;
+    width: 250px;
+    position: relative;
+    top: -30px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px; 
+}
+.rec6:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name3{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellipsStudy{
+    position: relative;
+    top: 0px; left: 160px;
+    cursor: pointer;
+}
+.h4{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -40px;
+    display: inline;
+}
+.lastStudy{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 25px;
+}
+.exercise{
+    width: 250px;
+    height: 230px;
+    background-color:  hsl(145, 58%, 55%);
+    position: relative;
+    top: -840px; left: 440px;
+    border-radius: 15px;
+}
+.imex{
+    position: relative;
+    top: 0px;left: 155px;
+    width: 70px;
+}
+.rec7{
+    height: 190px;
+    width: 250px;
+    position: relative;
+    top: -10px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px; 
+}
+.rec7:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name4{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellipsExercise{
+    position: relative;
+    top: 0px; left: 135px;
+    cursor: pointer;
+}
+.hrs4{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -65px;
+    display: inline;
+}
+.lastEx{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 25px;
+}
+.Social{
+    width: 250px;
+    height: 230px;
+    background-color:  hsl(264, 64%, 52%);
+    position: relative;
+    top: -1070px; left: 720px;
+    border-radius: 15px;
+}
+.imsoc{
+    position: relative;
+    top: -5px;left: 165px;
+    width: 70px;
+}
+.rec8{
+    height: 190px;
+    width: 250px;
+    position: relative;
+    top: -55px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px; 
+}
+.rec8:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name5{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellipsSocial{
+    position: relative;
+    top: 0px; left: 150px;
+    cursor: pointer;
+}
+.h5{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -45px;
+    display: inline;
+}
+.lastSo{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 25px;
+}
+.SelfCare{
+    width: 250px;
+    height: 230px;
+    background-color:  hsl(43, 84%, 65%);
+    position: relative;
+    top: -1300px; left: 1000px;
+    border-radius: 15px;
+}
+.imSelf{
+    position: relative;
+    top: 0px;left: 165px;
+    width: 70px;
+}
+.rec9{
+    height: 190px;
+    width: 250px;
+    position: relative;
+    top: -27px; left: 0px;
+    background-color: hsl(235, 46%, 20%);
+    border-radius: 15px; 
+}
+.rec9:hover{
+    cursor: pointer;
+    background-color: hsl(236, 27%, 35%);
+}
+.name6{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 0px; left: 30px;
+}
+.ellipsSelf{
+    position: relative;
+    top: 0px; left: 140px;
+    cursor: pointer;
+}
+.h2{
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top: 80px; left: -65px;
+    display: inline;
+}
+.lastSe{
+    color: hsl(236, 100%, 87%);
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 70px; left: 30px;
+}
